@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 5 (0x5)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CN, ST=Anhui, L=Hefei, O=LUG@USTC, OU=changeme, CN=changeme/name=Bojie Li/emailAddress=bojieli@gmail.com
+        Validity
+            Not Before: Oct  3 17:23:26 2013 GMT
+            Not After : Oct  1 17:23:26 2023 GMT
+        Subject: C=CN, ST=Anhui, L=Hefei, O=LUG@USTC, OU=changeme, CN=blog/name=blog/emailAddress=bojieli@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c7:01:8e:f7:ef:29:16:de:0e:d4:0c:2f:32:c4:
+                    f0:95:3c:2d:fa:42:ac:78:87:0e:ea:ce:68:61:9b:
+                    34:ef:54:be:62:8b:84:83:fc:e7:79:29:67:98:53:
+                    10:e0:b1:d5:44:c2:92:04:8f:9d:52:8e:fe:70:75:
+                    63:a4:99:38:51:9d:15:77:09:c1:37:ba:43:b3:73:
+                    bd:21:4a:89:3a:63:95:13:0c:18:91:49:c3:01:7d:
+                    58:5d:b4:15:79:f4:33:84:fd:f7:ce:a6:64:f3:72:
+                    08:e0:88:ac:3b:b6:1d:cb:49:f9:c4:4d:02:19:e0:
+                    70:e1:38:4f:99:7a:21:e0:af
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                36:AA:27:E9:FE:A0:40:6B:2E:83:84:A1:63:A4:FF:48:A0:9D:6A:F3
+            X509v3 Authority Key Identifier: 
+                keyid:3A:C4:BE:BE:D7:90:E3:D8:58:4E:95:05:67:73:C2:9E:9A:96:15:2E
+                DirName:/C=CN/ST=Anhui/L=Hefei/O=LUG@USTC/OU=changeme/CN=changeme/name=Bojie Li/emailAddress=bojieli@gmail.com
+                serial:F1:C8:35:4B:8B:8E:5B:57
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+         6e:2e:3f:ee:63:18:ce:43:ab:96:fe:89:dc:76:72:e2:c6:06:
+         15:8c:ba:32:f7:f4:51:52:33:5f:07:2c:83:a9:ed:f5:fd:77:
+         a9:80:97:12:f8:fd:3e:b7:3e:10:2f:47:be:8e:1a:41:87:21:
+         83:f8:51:05:e7:3b:6e:7d:88:6e:ca:30:5c:2e:15:c1:b8:da:
+         3c:3b:39:c8:bf:fd:63:53:30:d6:8c:b3:33:31:b1:85:72:7b:
+         b7:21:d1:df:e7:40:6b:0b:17:79:4e:b1:61:3b:ea:b3:fd:32:
+         bb:c4:1e:f5:49:e5:22:b4:6b:03:22:34:76:cc:8b:46:84:17:
+         4b:4d
+-----BEGIN CERTIFICATE-----
+MIID+jCCA2OgAwIBAgIBBTANBgkqhkiG9w0BAQUFADCBmzELMAkGA1UEBhMCQ04x
+DjAMBgNVBAgTBUFuaHVpMQ4wDAYDVQQHEwVIZWZlaTERMA8GA1UEChQITFVHQFVT
+VEMxETAPBgNVBAsTCGNoYW5nZW1lMREwDwYDVQQDEwhjaGFuZ2VtZTERMA8GA1UE
+KRMIQm9qaWUgTGkxIDAeBgkqhkiG9w0BCQEWEWJvamllbGlAZ21haWwuY29tMB4X
+DTEzMTAwMzE3MjMyNloXDTIzMTAwMTE3MjMyNlowgZMxCzAJBgNVBAYTAkNOMQ4w
+DAYDVQQIEwVBbmh1aTEOMAwGA1UEBxMFSGVmZWkxETAPBgNVBAoUCExVR0BVU1RD
+MREwDwYDVQQLEwhjaGFuZ2VtZTENMAsGA1UEAxMEYmxvZzENMAsGA1UEKRMEYmxv
+ZzEgMB4GCSqGSIb3DQEJARYRYm9qaWVsaUBnbWFpbC5jb20wgZ8wDQYJKoZIhvcN
+AQEBBQADgY0AMIGJAoGBAMcBjvfvKRbeDtQMLzLE8JU8LfpCrHiHDurOaGGbNO9U
+vmKLhIP853kpZ5hTEOCx1UTCkgSPnVKO/nB1Y6SZOFGdFXcJwTe6Q7NzvSFKiTpj
+lRMMGJFJwwF9WF20FXn0M4T9986mZPNyCOCIrDu2HctJ+cRNAhngcOE4T5l6IeCv
+AgMBAAGjggFSMIIBTjAJBgNVHRMEAjAAMC0GCWCGSAGG+EIBDQQgFh5FYXN5LVJT
+QSBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFDaqJ+n+oEBrLoOEoWOk
+/0ignWrzMIHQBgNVHSMEgcgwgcWAFDrEvr7XkOPYWE6VBWdzwp6alhUuoYGhpIGe
+MIGbMQswCQYDVQQGEwJDTjEOMAwGA1UECBMFQW5odWkxDjAMBgNVBAcTBUhlZmVp
+MREwDwYDVQQKFAhMVUdAVVNUQzERMA8GA1UECxMIY2hhbmdlbWUxETAPBgNVBAMT
+CGNoYW5nZW1lMREwDwYDVQQpEwhCb2ppZSBMaTEgMB4GCSqGSIb3DQEJARYRYm9q
+aWVsaUBnbWFpbC5jb22CCQDxyDVLi45bVzATBgNVHSUEDDAKBggrBgEFBQcDAjAL
+BgNVHQ8EBAMCB4AwDQYJKoZIhvcNAQEFBQADgYEAbi4/7mMYzkOrlv6J3HZy4sYG
+FYy6Mvf0UVIzXwcsg6nt9f13qYCXEvj9Prc+EC9Hvo4aQYchg/hRBec7bn2Ibsow
+XC4VwbjaPDs5yL/9Y1Mw1oyzMzGxhXJ7tyHR3+dAawsXeU6xYTvqs/0yu8Qe9Unl
+IrRrAyI0dsyLRoQXS00=
+-----END CERTIFICATE-----
