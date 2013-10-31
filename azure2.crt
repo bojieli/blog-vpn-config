@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CN, ST=Anhui, L=Hefei, O=LUG@USTC, OU=changeme, CN=changeme/name=Bojie Li/emailAddress=bojieli@gmail.com
+        Validity
+            Not Before: Oct 31 16:43:51 2013 GMT
+            Not After : Oct 29 16:43:51 2023 GMT
+        Subject: C=CN, ST=Anhui, L=Hefei, O=LUG@USTC, OU=changeme, CN=blog/name=changeme/emailAddress=support@blog.ustc.edu.cn
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b4:92:e0:57:7a:dc:3b:7c:f4:34:da:19:2b:77:
+                    96:ea:87:ad:a6:bf:56:04:66:f0:88:04:68:f6:34:
+                    55:26:f7:0b:3e:3f:39:d1:0a:e9:54:94:15:51:c6:
+                    26:cb:dd:db:d5:79:e9:ac:55:1f:ab:3f:b7:ca:79:
+                    48:52:f7:aa:fb:d1:8f:ba:b7:4e:64:d4:d5:21:62:
+                    12:e4:81:c2:73:92:e1:6c:65:f3:29:75:9e:5a:b3:
+                    97:01:e1:eb:5a:cd:52:d1:b7:b5:b4:5f:17:35:ad:
+                    d6:01:c8:f6:8a:9f:20:d6:4e:0b:ab:3a:08:37:8e:
+                    45:3a:dd:9b:1f:da:78:30:47
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                BF:5F:29:66:5A:8C:3E:56:C0:DA:97:1D:C6:1B:71:6A:39:3B:83:62
+            X509v3 Authority Key Identifier: 
+                keyid:F8:51:BC:24:BD:55:29:6B:FB:EE:B4:0B:B1:E0:23:44:53:7A:63:FB
+                DirName:/C=CN/ST=Anhui/L=Hefei/O=LUG@USTC/OU=changeme/CN=changeme/name=Bojie Li/emailAddress=bojieli@gmail.com
+                serial:CA:AA:06:64:10:B6:C9:99
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+         6b:94:33:9b:70:e3:e1:f1:3c:85:0b:1e:6b:3d:25:f4:eb:29:
+         28:6d:79:77:8b:41:99:89:a2:91:a0:a2:0e:8b:18:b3:06:c9:
+         71:1c:01:e1:8b:7e:3c:10:f6:43:bc:f3:37:6b:9a:b3:6c:3e:
+         7c:1f:1f:92:a9:f4:d7:a2:8c:49:84:fd:f0:3b:85:16:ba:f9:
+         f3:0a:07:a7:7a:46:42:cc:23:ae:b4:44:d5:0b:af:b8:a5:12:
+         3a:46:25:ae:ef:4a:cc:10:55:f3:10:c5:85:34:25:56:f7:ba:
+         38:ff:e1:ba:46:a7:a3:b9:cd:32:7c:c8:ff:e1:7c:db:ca:fb:
+         cd:50
+-----BEGIN CERTIFICATE-----
+MIIEBTCCA26gAwIBAgIBAjANBgkqhkiG9w0BAQUFADCBmzELMAkGA1UEBhMCQ04x
+DjAMBgNVBAgTBUFuaHVpMQ4wDAYDVQQHEwVIZWZlaTERMA8GA1UEChQITFVHQFVT
+VEMxETAPBgNVBAsTCGNoYW5nZW1lMREwDwYDVQQDEwhjaGFuZ2VtZTERMA8GA1UE
+KRMIQm9qaWUgTGkxIDAeBgkqhkiG9w0BCQEWEWJvamllbGlAZ21haWwuY29tMB4X
+DTEzMTAzMTE2NDM1MVoXDTIzMTAyOTE2NDM1MVowgZ4xCzAJBgNVBAYTAkNOMQ4w
+DAYDVQQIEwVBbmh1aTEOMAwGA1UEBxMFSGVmZWkxETAPBgNVBAoUCExVR0BVU1RD
+MREwDwYDVQQLEwhjaGFuZ2VtZTENMAsGA1UEAxMEYmxvZzERMA8GA1UEKRMIY2hh
+bmdlbWUxJzAlBgkqhkiG9w0BCQEWGHN1cHBvcnRAYmxvZy51c3RjLmVkdS5jbjCB
+nzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtJLgV3rcO3z0NNoZK3eW6oetpr9W
+BGbwiARo9jRVJvcLPj850QrpVJQVUcYmy93b1XnprFUfqz+3ynlIUveq+9GPurdO
+ZNTVIWIS5IHCc5LhbGXzKXWeWrOXAeHrWs1S0be1tF8XNa3WAcj2ip8g1k4LqzoI
+N45FOt2bH9p4MEcCAwEAAaOCAVIwggFOMAkGA1UdEwQCMAAwLQYJYIZIAYb4QgEN
+BCAWHkVhc3ktUlNBIEdlbmVyYXRlZCBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQUv18p
+ZlqMPlbA2pcdxhtxajk7g2IwgdAGA1UdIwSByDCBxYAU+FG8JL1VKWv77rQLseAj
+RFN6Y/uhgaGkgZ4wgZsxCzAJBgNVBAYTAkNOMQ4wDAYDVQQIEwVBbmh1aTEOMAwG
+A1UEBxMFSGVmZWkxETAPBgNVBAoUCExVR0BVU1RDMREwDwYDVQQLEwhjaGFuZ2Vt
+ZTERMA8GA1UEAxMIY2hhbmdlbWUxETAPBgNVBCkTCEJvamllIExpMSAwHgYJKoZI
+hvcNAQkBFhFib2ppZWxpQGdtYWlsLmNvbYIJAMqqBmQQtsmZMBMGA1UdJQQMMAoG
+CCsGAQUFBwMCMAsGA1UdDwQEAwIHgDANBgkqhkiG9w0BAQUFAAOBgQBrlDObcOPh
+8TyFCx5rPSX06ykobXl3i0GZiaKRoKIOixizBslxHAHhi348EPZDvPM3a5qzbD58
+Hx+SqfTXooxJhP3wO4UWuvnzCgenekZCzCOutETVC6+4pRI6RiWu70rMEFXzEMWF
+NCVW97o4/+G6Rqejuc0yfMj/4XzbyvvNUA==
+-----END CERTIFICATE-----
