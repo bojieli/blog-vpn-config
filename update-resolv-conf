@@ -32,15 +32,15 @@ up)
 				IF_DNS_NAMESERVERS="$IF_DNS_NAMESERVERS $part3"
 			fi
 			if [ "$part2" == "DOMAIN" ] ; then
-				IF_DNS_SEARCH="$part3"
+				IF_DNS_SEARCH="$IF_DNS_SEARCH $part3"
 			fi
 		fi
 	done
 	R=""
-	if [ "$IF_DNS_SEARCH" ] ; then
-        	R="${R}search $IF_DNS_SEARCH
+	for SS in $IF_DNS_SEARCH ; do
+        	R="${R}search $SS
 "
-	fi
+	done
 	for NS in $IF_DNS_NAMESERVERS ; do
         	R="${R}nameserver $NS
 "
