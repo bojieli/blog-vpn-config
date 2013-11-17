@@ -18,3 +18,5 @@ for i in {0..9} {a..f}; do
         ip neigh add proxy 2001:da8:d800:f001:176:99:1:$i$j dev eth1
     done
 done
+
+exit 0
