@@ -8,7 +8,7 @@ CONFDIR=/etc/openvpn
 
 while [ ! -z "$1" ]; do
     CONF=$CONFDIR/$1.conf
-    [ ! -e "$CONF" ] && echo "config file $conf does not exist" && exit 1
+    [ ! -e "$CONF" ] && echo "config file $CONF does not exist" && exit 1
     ps -A -o pid,cmd | grep "$DAEMON" | grep "$CONF" | \
         while read pid cmdline; do
             openfiles=$(lsof -n -p $pid)
