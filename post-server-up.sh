@@ -25,6 +25,8 @@ update_route tun3
 update_route tun4
 update_route tun5
 ip -6 rule del from all lookup 1002 pref 1000 2>/dev/null
+# this is to ensure local subnet do not go through gateway
+ip -6 route add 2001:da8:d800:f001::/64 dev eth0 table 1002 2>/dev/null
 ip -6 rule add from all lookup 1002 pref 1000
 
 for i in {0..9} {a..f}; do
